@@ -6,6 +6,8 @@ import { moduleWithPrivateMethod } from 'es5 modules/moduleWithPrivateMethod.js'
     moduleWithPrivateMethod1.publicMethod();
 });*/
 
+//make some change  to check main branch integration
+
 moduleWithPrivateMethod.publicMethod();
 moduleWithPrivateMethod.setNode('z', 888);
 moduleWithPrivateMethod.setNode('v', '444');
